@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    317-->
+    <string name="version">版本</string>
+    <string name="deVersion_text">切换到老年版</string>
+    <string name="language">语音</string>
+    <string name="english">英文</string>
+    <string name="chinese">中文</string>
+    <string name="theme">主题</string>
+    <string name="white">白天</string>
+    <string name="dark">黑夜</string>
+    <string name="setting">设置</string>
+    <string name="about_card_bag">关于卡包</string>
+    <string name="card_bag">卡包</string>
+    <string name="current_version_about">当前版本</string>
+    <string name="reference_about">引用</string>
+    <string name="author_about">作者</string>
+    <string name="address_about">代码地址</string>
+    <string name="privacy_about">隐私政策</string>
+    <string name="permit_about">许可</string>
+    <string name="permission_about">许可申请</string>
+    <string name="card_name_edit">卡名:</string>
+    <string name="card_id_edit">卡号:</string>
+    <string name="due_time_edit">到期时间:</string>
+    <string name="note_edit">备注:</string>
+    <string name="type_edit">类型:</string>
+    <string name="add_code_edit">添加码</string>
+</resources>

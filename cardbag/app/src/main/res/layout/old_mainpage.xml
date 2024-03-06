@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    >
+
+    <TextView
+        android:id="@+id/old_note_name"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="#2F3799"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:text="Card Bag"
+        android:textColor="@android:color/white"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/old_main_card_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:text="Name"
+        android:textColor="@android:color/black"
+        android:textSize="65sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/old_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="12dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="350dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/ic_settings" />
+
+
+    <ImageView
+        android:id="@+id/old_main_code"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ic_app_icon" />
+
+
+    <ImageView
+        android:id="@+id/old_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="43dp"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/add"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/old_main_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="45dp"
+        android:layout_marginBottom="45dp"
+        android:src="@drawable/ic_edit" />
+
+
+
+
+
+
+
+
+</RelativeLayout>

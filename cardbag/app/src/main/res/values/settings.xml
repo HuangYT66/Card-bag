@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default values -->
+    <integer name="settings_max_font_size_scale_pct">100</integer>
+
+    <!-- Constraints -->
+    <integer name="settings_max_font_size_scale_pct_min">50</integer>
+    <integer name="settings_max_font_size_scale_pct_max">200</integer>
+</resources>
